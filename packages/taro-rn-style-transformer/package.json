@@ -36,7 +36,7 @@
     "stylelint": "^14.9.1",
     "stylelint-config-taro-rn": "workspace:*",
     "stylelint-taro-rn": "workspace:*",
-    "stylus": "^0.55.0",
+    "stylus": "^0.56.0",
     "taro-css-to-react-native": "workspace:*"
   }
 }
