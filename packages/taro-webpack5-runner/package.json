@@ -49,7 +49,7 @@
     "@tarojs/webpack5-prebundle": "workspace:*",
     "acorn-walk": "^8.0.0",
     "autoprefixer": "^9.7.4",
-    "babel-loader": "8.2.1",
+    "babel-loader": "9.1.3",
     "copy-webpack-plugin": "10.2.0",
     "css-loader": "6.5.1",
     "css-minimizer-webpack-plugin": "3.4.1",
