@@ -68,7 +68,7 @@
     "minimist": "1.2.5",
     "npm-check": "^5.9.0",
     "ora": "4.0.3",
-    "postcss": "^6.0.22",
+    "postcss": "^8.4.31",
     "postcss-taro-unit-transform": "1.2.15",
     "prettier": "^2.7.1",
     "regenerator-runtime": "0.11",
