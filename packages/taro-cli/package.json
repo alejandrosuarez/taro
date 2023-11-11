@@ -48,7 +48,7 @@
     "@tarojs/service": "workspace:*",
     "@tarojs/shared": "workspace:*",
     "@tarojs/taroize": "workspace:*",
-    "@tarojs/transformer-wx": "^2.0.4",
+    "@tarojs/transformer-wx": "^3.6.19",
     "adm-zip": "^0.4.13",
     "babylon": "^6.18.0",
     "better-babel-generator": "6.26.1",
