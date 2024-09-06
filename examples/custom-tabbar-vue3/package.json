@@ -36,11 +36,11 @@
   "dependencies": {
     "@babel/runtime": "^7.7.7",
     "@tarojs/runtime": "3.4.3",
-    "@tarojs/taro": "3.4.3",
-    "@tarojs/components": "3.4.3",
-    "@tarojs/plugin-framework-vue3": "3.4.3",
+    "@tarojs/taro": "3.5.0",
+    "@tarojs/components": "3.5.0",
+    "@tarojs/plugin-framework-vue3": "4.0.0",
     "vuex": "^4.0.0-beta.4",
-    "vue": "^3.0.0"
+    "vue": "^3.3.5"
   },
   "devDependencies": {
     "@types/webpack-env": "^1.13.6",
